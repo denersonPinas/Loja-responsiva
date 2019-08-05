@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595.281px" height="841.89px" viewBox="0 0 595.281 841.89" enable-background="new 0 0 595.281 841.89"
+	 xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="133.082" y1="409.8594" x2="310.6806" y2="232.2608">
+		<stop  offset="0" style="stop-color:#0FCECE"/>
+		<stop  offset="0.2024" style="stop-color:#0DB9C1"/>
+		<stop  offset="0.6174" style="stop-color:#0884A0"/>
+		<stop  offset="1" style="stop-color:#034D7F"/>
+	</linearGradient>
+	<ellipse fill="url(#SVGID_1_)" stroke="#FFFFFF" stroke-miterlimit="10" cx="221.881" cy="321.06" rx="130" ry="121"/>
+	<g>
+		<path fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" d="M296.367,276.414l1.42,86.829l-74.483,44.646l-75.907-42.182
+			l-1.421-86.828l74.483-44.647L296.367,276.414z M219.763,250.783l-63.461,37.327l2.032,70.953l65.496,33.631l63.462-37.325
+			l-2.034-70.956L219.763,250.783z"/>
+		<polygon fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" points="229.357,250.151 229.357,283.869 247.05,293.87 
+			248.132,382.466 263.007,379.388 263.976,301.178 279.746,311.563 279.746,296.562 244.358,276.177 243.973,259.252 		"/>
+		<polygon fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" points="180.435,373.235 167.818,367.081 167.818,294.255 
+			217.818,267.331 217.818,285.023 182.432,303.101 182.432,311.949 212.049,312.718 212.818,323.873 182.047,324.642 		"/>
+	</g>
+</g>
+</svg>
